@@ -46,7 +46,7 @@ Jeder Ordner zum jeweiligen Kapitel enthält jeweils zwei Unterordner: Lektionen
 ### Download des Repos
 1. Möglichkeit: Git clone
     - Download und Installation von GIT
-    - In PowerShell: "git clone git@github.com:philiplorenz-code/powershell-heise.git
+    - In PowerShell: "git clone git@github.com:philiplorenz-code/heise-kurse.git"
 <br>
 2. Möglichkeit: Manuelles Herunterladen:
    - Klick auf "Code"
