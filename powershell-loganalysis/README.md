@@ -50,4 +50,4 @@
 
 ### Wichtige Links und weiterführende Inhalte
 - [PowerShell Best Practices](https://www.scriptrunner.com/en/blog/5-powershell-scripting-best-practices/)
-- [Beispiel Log-Dateien](https://github.com/logpai/loghub
+- [Beispiel Log-Dateien](https://github.com/logpai/loghub)
