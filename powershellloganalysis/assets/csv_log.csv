@@ -1,0 +1,24 @@
+date,time,type,errorcode,message
+27.04.2022,20:35:06,Warning,9,Illegal user guest from 218.49.183.17
+28.04.2022,20:35:06,Warning,9,Illegal user guest from 218.49.183.17
+29.04.2022,20:35:06,Warning,9,Illegal user guest from 218.49.183.17
+29.04.2022,20:35:16,Info,4,error: Could not get shadow information for NOUSER
+29.04.2022,20:35:26,Warning,2,error: Could not get shadow information for NOUSER
+29.04.2022,20:35:36,Warning,9,Failed password for admin from 218.49.183.17 port 49266 ssh2
+29.04.2022,20:35:46,Info,3,Failed password for illegal user test from 218.49.183.17 port 52244 ssh2
+29.04.2022,20:35:56,Info,5,Illegal user test from 218.49.183.17
+29.04.2022,20:36:06,Info,6,Failed password for illegal user guest from 218.49.183.17 port 52818 ssh2
+29.04.2022,20:36:16,Error,5,error: Could not get shadow information for NOUSER
+29.04.2022,20:36:26,Info,5,Failed password for illegal user guest from 218.49.183.17 port 52416 ssh2
+29.04.2022,20:36:36,Error,2,error: Could not get shadow information for NOUSER
+29.04.2022,20:36:46,Warning,8,error: Could not get shadow information for NOUSER
+29.04.2022,20:36:56,Error,6,error: Could not get shadow information for NOUSER
+29.04.2022,20:37:06,Warning,7,error: Could not get shadow information for NOUSER
+29.04.2022,20:37:16,Error,6,Illegal user guest from 218.49.183.17
+29.04.2022,20:37:26,Info,8,error: Could not get shadow information for NOUSER
+29.04.2022,20:37:36,Error,7,Failed password for illegal user user from 218.49.183.17 port 49680 ssh2
+29.04.2022,20:37:46,Info,4,error: Could not get shadow information for NOUSER
+29.04.2022,20:37:56,Info,5,Failed password for admin from 218.49.183.17 port 49266 ssh2
+29.04.2022,20:38:06,Error,6,Illegal user test from 218.49.183.17
+29.04.2022,20:38:16,Info,5,Illegal user user from 218.49.183.17
+29.04.2022,20:38:26,Warning,3,error: Could not get shadow information for NOUSER
